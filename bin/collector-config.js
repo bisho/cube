@@ -4,5 +4,5 @@ module.exports = {
   "mongo-port": 27017,
   "mongo-database": "cube_development",
   "http-port": 1080,
-  "udp-port" : 1180
+  "udp-port": 1180
 };
